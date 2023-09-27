@@ -4,7 +4,7 @@
   Define terms and link to docs.github.com.
 -->
 
-## Step 5: Merge your pull request
+## Step X: Merge your pull request
 
 _Almost there! :heart:_
 
